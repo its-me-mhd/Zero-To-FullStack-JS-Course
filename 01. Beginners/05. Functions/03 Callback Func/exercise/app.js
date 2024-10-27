@@ -9,6 +9,5 @@ function showCallFunc(fn) {
   fn(value);
 }
 
-showCallFunc(function (value) {
-  console.log(value);
-});
+// Use arrow function as the callback
+showCallFunc((value) => console.log(value));
