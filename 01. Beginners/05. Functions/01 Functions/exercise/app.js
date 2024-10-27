@@ -5,10 +5,9 @@
 // 5. log the value.
 
 // ---------------------------
-function myFunction(p1, p2) {
-  return p1 * p2; // The function returns the product of p1 and p2
-}
+// i like to use the shorter way lol!
+const myFunction = (p1, p2) => p1 * p2;
 
-let x = myFunction(4, 3);
-console.log(x);
-// ---------------------------
+let result = myFunction(7, 5); 
+console.log(result);
+
