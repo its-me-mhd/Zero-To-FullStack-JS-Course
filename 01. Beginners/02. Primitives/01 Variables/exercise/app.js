@@ -6,7 +6,7 @@
 
 const userInfo = {
   name: "HuXn WebDev",
-  whatDoYouWannaBecomeInYourLife: "programmer",
+  whatDoYouWannaBecomeInYourLife: "Engineer",
   gender: "male",
   twitterHandle: "@huxnwebdev"
 };
